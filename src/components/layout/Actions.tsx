@@ -27,7 +27,6 @@ export const FileActionSection = () => (
 	<div className={ACTIONS_SECTION_CLASS_NAME}>
 		<CreateFile />
 		<SortFiles />
-		<SearchFiles />
 	</div>
 );
 
