@@ -62,7 +62,6 @@ const HorizontalSplitLayout = () => {
 			>
 				<ActionsContainer>
 					<FolderAndTagActionSection />
-					<ToggleFolderAndTagMode />
 				</ActionsContainer>
 				<FolderAndTagTree />
 			</div>
